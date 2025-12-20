@@ -5,6 +5,7 @@ import Features from "@/components/landing/Features";
 import About from "@/components/landing/About";
 import Testimonials from "@/components/landing/Testimonials";
 import FAQ from "@/components/landing/FAQ";
+import PressKit from "@/components/landing/PressKit";
 import Contact from "@/components/landing/Contact";
 import Footer from "@/components/landing/Footer";
 
@@ -40,6 +41,7 @@ const Index = () => {
           <About />
           <Testimonials />
           <FAQ />
+          <PressKit />
           <Contact />
         </main>
         <Footer />
